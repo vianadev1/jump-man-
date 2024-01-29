@@ -1,0 +1,1816 @@
+fileFormatVersion: 2
+guid: 5127a3282b4a08c49947246648b4d207
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6622776333585218826
+    second: Farming Preview_0
+  - first:
+      213: -4485437692408267787
+    second: Farming Preview_1
+  - first:
+      213: 4995970037356277372
+    second: Farming Preview_2
+  - first:
+      213: -1348222588673668521
+    second: Farming Preview_3
+  - first:
+      213: -1335939091368022157
+    second: Farming Preview_4
+  - first:
+      213: 8914106509845199834
+    second: Farming Preview_5
+  - first:
+      213: 7445576505961391295
+    second: Farming Preview_6
+  - first:
+      213: 8984012047499260138
+    second: Farming Preview_7
+  - first:
+      213: -4519422918819468388
+    second: Farming Preview_8
+  - first:
+      213: -4685328680428559573
+    second: Farming Preview_9
+  - first:
+      213: -5154215729526160177
+    second: Farming Preview_10
+  - first:
+      213: -5451383640642193544
+    second: Farming Preview_11
+  - first:
+      213: -4872190799314563940
+    second: Farming Preview_12
+  - first:
+      213: -297391881497245721
+    second: Farming Preview_13
+  - first:
+      213: 2180830003824587284
+    second: Farming Preview_14
+  - first:
+      213: 3820176759143193003
+    second: Farming Preview_15
+  - first:
+      213: -6098056171320994021
+    second: Farming Preview_16
+  - first:
+      213: 1334356725522852011
+    second: Farming Preview_17
+  - first:
+      213: -2653541646920386216
+    second: Farming Preview_18
+  - first:
+      213: 3722133265176554176
+    second: Farming Preview_19
+  - first:
+      213: 8842462111175401788
+    second: Farming Preview_20
+  - first:
+      213: 566566446916464773
+    second: Farming Preview_21
+  - first:
+      213: -7483800485366006109
+    second: Farming Preview_22
+  - first:
+      213: -6855684269834614842
+    second: Farming Preview_23
+  - first:
+      213: 6544386653208901759
+    second: Farming Preview_24
+  - first:
+      213: 7693912150562966879
+    second: Farming Preview_25
+  - first:
+      213: 6322533727247813876
+    second: Farming Preview_26
+  - first:
+      213: -4201482016452551284
+    second: Farming Preview_27
+  - first:
+      213: 330381633030446822
+    second: Farming Preview_28
+  - first:
+      213: -9021254577560744575
+    second: Farming Preview_29
+  - first:
+      213: -1404229953646969941
+    second: Farming Preview_30
+  - first:
+      213: 1649336874740734466
+    second: Farming Preview_31
+  - first:
+      213: -7243320068459998114
+    second: Farming Preview_32
+  - first:
+      213: 8563369284911102921
+    second: Farming Preview_33
+  - first:
+      213: -1250817063253169044
+    second: Farming Preview_34
+  - first:
+      213: -7413189009532075314
+    second: Farming Preview_35
+  - first:
+      213: 486547675360769735
+    second: Farming Preview_36
+  - first:
+      213: 5143004790023469796
+    second: Farming Preview_37
+  - first:
+      213: -4555560732380328347
+    second: Farming Preview_38
+  - first:
+      213: -867881977994017251
+    second: Farming Preview_39
+  - first:
+      213: -6358881584643787068
+    second: Farming Preview_40
+  - first:
+      213: -2495470343276350808
+    second: Farming Preview_41
+  - first:
+      213: -3637805027200371043
+    second: Farming Preview_42
+  - first:
+      213: -782782168475012696
+    second: Farming Preview_43
+  - first:
+      213: -1858631480906368978
+    second: Farming Preview_44
+  - first:
+      213: -1461648367117373156
+    second: Farming Preview_45
+  - first:
+      213: 5653668399448688664
+    second: Farming Preview_46
+  - first:
+      213: 1627918044420683008
+    second: Farming Preview_47
+  - first:
+      213: -1621862399625198724
+    second: Farming Preview_48
+  - first:
+      213: -2440769361508003452
+    second: Farming Preview_49
+  - first:
+      213: -6682583229876796770
+    second: Farming Preview_50
+  - first:
+      213: -2476256516129225737
+    second: Farming Preview_51
+  - first:
+      213: -7240696223418427254
+    second: Farming Preview_52
+  - first:
+      213: 3244684652902784182
+    second: Farming Preview_53
+  - first:
+      213: 8199872639508560543
+    second: Farming Preview_54
+  - first:
+      213: -7356825874119846733
+    second: Farming Preview_55
+  - first:
+      213: 685067851249797120
+    second: Farming Preview_56
+  - first:
+      213: 1421770210866124096
+    second: Farming Preview_57
+  - first:
+      213: 841753341031650687
+    second: Farming Preview_58
+  - first:
+      213: -7650544388475726906
+    second: Farming Preview_59
+  - first:
+      213: 6715990299232873875
+    second: Farming Preview_60
+  - first:
+      213: 3443744089082217043
+    second: Farming Preview_61
+  - first:
+      213: -5971446101386633661
+    second: Farming Preview_62
+  - first:
+      213: -3939220557044903214
+    second: Farming Preview_63
+  - first:
+      213: 3999333332035261577
+    second: Farming Preview_64
+  - first:
+      213: -7537312117779161844
+    second: Farming Preview_65
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Farming Preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f20ac9730c2714a0800000000000000
+      internalID: -6622776333585218826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 219
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb7bd10f2680c1c0800000000000000
+      internalID: -4485437692408267787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 222
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ead197740455540800000000000000
+      internalID: 4995970037356277372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 221
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ac2f3e2b62a4de0800000000000000
+      internalID: -1348222588673668521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 222
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f6379797ac57de0800000000000000
+      internalID: -1335939091368022157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 224
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbf15944a445bb70800000000000000
+      internalID: 8914106509845199834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 222
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4a2d14260045760800000000000000
+      internalID: 7445576505961391295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 224
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0f50d9b5f9dac70800000000000000
+      internalID: 8984012047499260138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 223
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ba10edcc8c741c0800000000000000
+      internalID: -4519422918819468388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 229
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b232b1b936e5afeb0800000000000000
+      internalID: -4685328680428559573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 228
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4ccd92a1c8878b0800000000000000
+      internalID: -5154215729526160177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 220
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8777525267bc854b0800000000000000
+      internalID: -5451383640642193544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 187
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ccde03840826cb0800000000000000
+      internalID: -4872190799314563940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 191
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e78540d8a37fdbf0800000000000000
+      internalID: -297391881497245721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 190
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4127a7d755dd34e10800000000000000
+      internalID: 2180830003824587284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 193
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9dee3b58ef30530800000000000000
+      internalID: 3820176759143193003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 191
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b179808983a5f5ba0800000000000000
+      internalID: -6098056171320994021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 192
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba861744f56948210800000000000000
+      internalID: 1334356725522852011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_18
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 191
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859fa926ee9bc2bd0800000000000000
+      internalID: -2653541646920386216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 191
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca6385eb7ca7a330800000000000000
+      internalID: 3722133265176554176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_20
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 187
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31e574d07cb6ba70800000000000000
+      internalID: 8842462111175401788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 196
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5807c128e29dcd700800000000000000
+      internalID: 566566446916464773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_22
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 196
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aefcd30c13342890800000000000000
+      internalID: -7483800485366006109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_23
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 188
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c74644ca77bbd0a0800000000000000
+      internalID: -6855684269834614842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 156
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78f259ccf452da50800000000000000
+      internalID: 6544386653208901759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 156
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d0e5b365446ca60800000000000000
+      internalID: 7693912150562966879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 159
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc480d3de62eb750800000000000000
+      internalID: 6322533727247813876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 163
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d572fcd5651b5c0800000000000000
+      internalID: -4201482016452551284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_28
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eed7154850c59400800000000000000
+      internalID: 330381633030446822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 165
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d002422c01ec280800000000000000
+      internalID: -9021254577560744575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_30
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 158
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babb8ed0c4c238ce0800000000000000
+      internalID: -1404229953646969941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_31
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 160
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20adfd5262f93e610800000000000000
+      internalID: 1649336874740734466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_32
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 155
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54dbf446ce8a7b90800000000000000
+      internalID: -7243320068459998114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 164
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbfd937ef237d670800000000000000
+      internalID: 8563369284911102921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_34
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 164
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c2cc1128434aee0800000000000000
+      internalID: -1250817063253169044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_35
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 156
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2c2026fdf0f1990800000000000000
+      internalID: -7413189009532075314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 100
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6bb2c688090c600800000000000000
+      internalID: 486547675360769735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_37
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 102
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea3b739b9f9f5740800000000000000
+      internalID: 5143004790023469796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_38
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 106
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e80c976a567c0c0800000000000000
+      internalID: -4555560732380328347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_39
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 109
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1604b270f9a4f3f0800000000000000
+      internalID: -867881977994017251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_40
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 123
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6b88ab3e6b0c7a0800000000000000
+      internalID: -6358881584643787068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_41
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 133
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2bd71c1fe4e5dd0800000000000000
+      internalID: -2495470343276350808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_42
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 132
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9677970a9be38dc0800000000000000
+      internalID: -3637805027200371043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_43
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 124
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1798fd3cff225f0800000000000000
+      internalID: -782782168475012696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_44
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 91
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28b73cf380d436e0800000000000000
+      internalID: -1858631480906368978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_45
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 100
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c117073ed8e27bbe0800000000000000
+      internalID: -1461648367117373156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_46
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 100
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8188df2747dd57e40800000000000000
+      internalID: 5653668399448688664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_47
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 92
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005b42916d6879610800000000000000
+      internalID: 1627918044420683008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_48
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 35
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7307c39dbcfd79e0800000000000000
+      internalID: -1621862399625198724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_49
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 42
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48198ac8235a02ed0800000000000000
+      internalID: -2440769361508003452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_50
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 43
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92063155f1b243a0800000000000000
+      internalID: -6682583229876796770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_51
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 46
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f30f5f71d192add0800000000000000
+      internalID: -2476256516129225737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 51
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88d1acc521e38b90800000000000000
+      internalID: -7240696223418427254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_53
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 50
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc9e60308f670d20800000000000000
+      internalID: 3244684652902784182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_54
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 49
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a3a5988bccbc170800000000000000
+      internalID: 8199872639508560543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_55
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 49
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b41faa78dd47e990800000000000000
+      internalID: -7356825874119846733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008c8c0c499d18900800000000000000
+      internalID: 685067851249797120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_57
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04558e259742bb310800000000000000
+      internalID: 1421770210866124096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_58
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7590b034328eab00800000000000000
+      internalID: 841753341031650687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_59
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3db8ab96ec3d590800000000000000
+      internalID: -7650544388475726906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_60
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39daeb4289df33d50800000000000000
+      internalID: 6715990299232873875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_61
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352c817d003aacf20800000000000000
+      internalID: 3443744089082217043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_62
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e557ba869212da0800000000000000
+      internalID: -5971446101386633661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_63
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d21c6536c31559c0800000000000000
+      internalID: -3939220557044903214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_64
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9845752e97c708730800000000000000
+      internalID: 3999333332035261577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Preview_65
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d96823096166790800000000000000
+      internalID: -7537312117779161844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Farming Preview_0: -6622776333585218826
+      Farming Preview_1: -4485437692408267787
+      Farming Preview_10: -5154215729526160177
+      Farming Preview_11: -5451383640642193544
+      Farming Preview_12: -4872190799314563940
+      Farming Preview_13: -297391881497245721
+      Farming Preview_14: 2180830003824587284
+      Farming Preview_15: 3820176759143193003
+      Farming Preview_16: -6098056171320994021
+      Farming Preview_17: 1334356725522852011
+      Farming Preview_18: -2653541646920386216
+      Farming Preview_19: 3722133265176554176
+      Farming Preview_2: 4995970037356277372
+      Farming Preview_20: 8842462111175401788
+      Farming Preview_21: 566566446916464773
+      Farming Preview_22: -7483800485366006109
+      Farming Preview_23: -6855684269834614842
+      Farming Preview_24: 6544386653208901759
+      Farming Preview_25: 7693912150562966879
+      Farming Preview_26: 6322533727247813876
+      Farming Preview_27: -4201482016452551284
+      Farming Preview_28: 330381633030446822
+      Farming Preview_29: -9021254577560744575
+      Farming Preview_3: -1348222588673668521
+      Farming Preview_30: -1404229953646969941
+      Farming Preview_31: 1649336874740734466
+      Farming Preview_32: -7243320068459998114
+      Farming Preview_33: 8563369284911102921
+      Farming Preview_34: -1250817063253169044
+      Farming Preview_35: -7413189009532075314
+      Farming Preview_36: 486547675360769735
+      Farming Preview_37: 5143004790023469796
+      Farming Preview_38: -4555560732380328347
+      Farming Preview_39: -867881977994017251
+      Farming Preview_4: -1335939091368022157
+      Farming Preview_40: -6358881584643787068
+      Farming Preview_41: -2495470343276350808
+      Farming Preview_42: -3637805027200371043
+      Farming Preview_43: -782782168475012696
+      Farming Preview_44: -1858631480906368978
+      Farming Preview_45: -1461648367117373156
+      Farming Preview_46: 5653668399448688664
+      Farming Preview_47: 1627918044420683008
+      Farming Preview_48: -1621862399625198724
+      Farming Preview_49: -2440769361508003452
+      Farming Preview_5: 8914106509845199834
+      Farming Preview_50: -6682583229876796770
+      Farming Preview_51: -2476256516129225737
+      Farming Preview_52: -7240696223418427254
+      Farming Preview_53: 3244684652902784182
+      Farming Preview_54: 8199872639508560543
+      Farming Preview_55: -7356825874119846733
+      Farming Preview_56: 685067851249797120
+      Farming Preview_57: 1421770210866124096
+      Farming Preview_58: 841753341031650687
+      Farming Preview_59: -7650544388475726906
+      Farming Preview_6: 7445576505961391295
+      Farming Preview_60: 6715990299232873875
+      Farming Preview_61: 3443744089082217043
+      Farming Preview_62: -5971446101386633661
+      Farming Preview_63: -3939220557044903214
+      Farming Preview_64: 3999333332035261577
+      Farming Preview_65: -7537312117779161844
+      Farming Preview_7: 8984012047499260138
+      Farming Preview_8: -4519422918819468388
+      Farming Preview_9: -4685328680428559573
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - nivel16
+  - piso
+  - nivel32
+  - nivel20
+  - base
+  - nivel2
+  - nivel14
+  - nivel17
+  - nivel7
+  - nivel15
+  - nivel9
+  - nivel18
+  - nivel23
+  - nivel3
+  - nivel6
+  - nivel13
+  - nivel8
+  - nivel22
+  - nivel5
+  - nivel1
+  - nivel10
+  - nivel19
+  - nivel12
+  - nivel11
+  - nivel4
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - piso
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
