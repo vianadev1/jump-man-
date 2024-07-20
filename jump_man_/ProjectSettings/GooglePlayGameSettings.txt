@@ -1,0 +1,9 @@
+lastUpgrade=01101
+proj.pluginVersion=0.11.01
+proj.AppId=225406194248
+and.BundleId=com.vianadev_jump_King.jump_man_
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e225406194248%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.vianadev_jump_King.jump_man_%3c%2fstring%3e%0d%0a++%3c%21--achievement+good+farmer--%3e%0d%0a++%3cstring+name%3d%22achievement_good_farmer%22+translatable%3d%22false%22%3eCgkIyKSG2scGEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--achievement+worker--%3e%0d%0a++%3cstring+name%3d%22achievement_worker%22+translatable%3d%22false%22%3eCgkIyKSG2scGEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--achievement+Mountain+climber--%3e%0d%0a++%3cstring+name%3d%22achievement_mountain_climber%22+translatable%3d%22false%22%3eCgkIyKSG2scGEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--achievement+elite--%3e%0d%0a++%3cstring+name%3d%22achievement_elite%22+translatable%3d%22false%22%3eCgkIyKSG2scGEAIQBQ%3c%2fstring%3e%0d%0a++%3c%21--achievement+touching+the+sky--%3e%0d%0a++%3cstring+name%3d%22achievement_touching_the_sky%22+translatable%3d%22false%22%3eCgkIyKSG2scGEAIQBg%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=225406194248-osaj7isc5ug4lqsdngjoff52e3s0ph1v.apps.googleusercontent.com
+android.SetupDone=true

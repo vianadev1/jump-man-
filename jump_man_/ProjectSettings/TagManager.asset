@@ -29,6 +29,11 @@ TagManager:
   - nivel12
   - nivel11
   - nivel4
+  - level test 1
+  - level test 2
+  - level test 3
+  - level test 4
+  - level test 5
   layers:
   - Default
   - TransparentFX
